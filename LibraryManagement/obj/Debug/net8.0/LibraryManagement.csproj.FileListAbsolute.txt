@@ -74,3 +74,4 @@ D:\Code\FPT\ASP NET API\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagem
 D:\Code\FPT\ASP NET API\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
 D:\Code\FPT\ASP NET API\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
 D:\Code\FPT\ASP NET API\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll
+D:\Code\FPT\ASP NET API\LibraryManagement\obj\Debug\net8.0\LibraryManagement.sourcelink.json
